@@ -1,0 +1,29 @@
+{
+  "name": "software-seguro-rpg0035",
+  "version": "1.0.0",
+  "description": "Projeto refatorado para a Missão Prática RPG0035 - Software sem Segurança Não Serve!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "seguranca",
+    "node.js",
+    "express",
+    "jwt",
+    "sql-injection",
+    "autenticacao",
+    "autorizacao",
+    "rpg0035"
+  ],
+  "author": "Felipe Komatsu",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite3": "^5.1.7"
+  }
+}

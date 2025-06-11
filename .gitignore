@@ -1,0 +1,16 @@
+# Ignora a pasta de módulos do Node.js
+node_modules/
+
+# Ignora o arquivo de bloqueio de pacotes (geralmente recriado por npm install)
+package-lock.json
+
+# Ignora variáveis de ambiente locais (se você criar um .env no futuro para chaves secretas)
+.env
+
+# Ignora logs ou arquivos temporários
+*.log
+tmp/
+
+# Ignora caches do sistema operacional
+.DS_Store
+Thumbs.db
