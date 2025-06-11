@@ -1,6 +1,6 @@
 # SOFTWARE-SEM-SEGURAN-A-N-O-SERVE-
 
-- Descrever o controle básico de acesso a uma API
+-Descrever o controle básico de acesso a uma API
 Rest;
 
 -Descrever o tratamento de dados sensíveis e log de
